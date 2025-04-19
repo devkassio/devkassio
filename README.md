@@ -2,7 +2,7 @@
 
  Olá, eu sou o Kássio Barros ❤️
 
-Sou um Programador Front-End em desenvolvimento, apaixonado por criar experiências web envolventes. Atualmente, estou aprimorando minhas habilidades com HTML, CSS e iniciando minha jornada em JavaScript e React. Meu foco é construir interfaces de usuário intuitivas e visualmente atraentes.
+Programador Front-End em desenvolvimento, apaixonado por criar experiências web envolventes. Atualmente, estou aprimorando minhas habilidades com HTML, CSS e iniciando minha jornada em JavaScript e React. Meu foco é construir interfaces de usuário intuitivas e visualmente atraentes.
 
 Tecnologias que estou explorando:
 <br>
