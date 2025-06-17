@@ -41,12 +41,12 @@
 <h2 align="center">📊 <strong>Estatísticas do GitHub</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosxis&show_icons=true&theme=radical&border_radius=10&custom_title=Estatísticas+de+Kássio+Barros" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosxis&theme=radical&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devkassio&show_icons=true&theme=radical&border_radius=10&custom_title=Estatísticas+de+Kássio+Barros" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkassio&theme=radical&border_radius=10" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosxis&bg_color=0d1117&color=7f00ff&line=7f00ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkassio&bg_color=0d1117&color=7f00ff&line=7f00ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -54,9 +54,9 @@
 <h2 align="center">📬 <strong>Entre em Contato</strong></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kassioxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kassioxis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kassioxs@icloud.com"><img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/16992162921"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/16992715614"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
