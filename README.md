@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim  
 
-Sou **Full Stack Developer** com sólida experiência em front-end e back-end, construindo aplicações com foco em **performance, robustez e excelente experiência do usuário**.  
+Sou **Programador Full Stack** com sólida experiência em front-end e back-end, construindo aplicações com foco em **performance, robustez e excelente experiência do usuário**.  
 Destaco-me por atuar em toda a jornada do produto: desde interfaces modernas e responsivas até APIs seguras e bem arquitetadas.
 
 Valores que me movem:
@@ -91,5 +91,5 @@ Minha missão: transformar **ideias em produtos digitais impactantes**, com aten
 </p>
 
 <p align="center">
-  <strong>💜 Crafted by <span style="color:#7f00ff;">Kássio Barros</span></strong>
+  <strong><span style="color:#7f00ff;">Kássio Barros</span> 💜</strong>
 </p>
