@@ -27,7 +27,7 @@ const kassio = {
   name: "Kássio Barros",
   role: "Full Stack Developer",
   location: "Brasil 🇧🇷",
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
+  languages: ["JavaScript", "TypeScript", "Python"],
   technologies: {
     frontend: ["React", "Next.js", "HTML5", "CSS3"],
     backend: ["Node.js", "Express", "NestJS"],
