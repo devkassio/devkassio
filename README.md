@@ -24,19 +24,19 @@
 
 ```typescript
 const kassio = {
-  name: "Kássio Barros",
-  role: "Full Stack Developer",
-  location: "Brasil 🇧🇷",
-  languages: ["JavaScript", "TypeScript", "Python"],
+  name: 'Kássio Barros',
+  role: 'Full Stack Developer',
+  location: 'Brasil 🇧🇷',
+  languages: ['JavaScript', 'TypeScript', 'Python'],
   technologies: {
-    frontend: ["React", "Next.js", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express", "NestJS"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    cloud: ["Docker"],
-    tools: ["Git", "VSCode", "Figma", "Postman"],
+    frontend: ['React', 'Next.js', 'HTML5', 'CSS3'],
+    backend: ['Node.js', 'Express', 'NestJS'],
+    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+    cloud: ['Docker'],
+    tools: ['Git', 'VSCode', 'Figma', 'Postman'],
   },
-  currentFocus: "Building scalable web applications",
-  philosophy: "Clean code + Functional design = Real impact",
+  currentFocus: 'Building scalable web applications',
+  philosophy: 'Clean code + Functional design = Real impact',
 };
 ```
 
@@ -110,7 +110,7 @@ const kassio = {
 ## 🌎 **Portfólio & Projetos**
 
 <div align="center">
-  
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-kassiobarros.com.br-00C851?style=for-the-badge&logoColor=white)](https://kassiobarros.com.br)
 
 ### 🚀 **Projetos em Destaque**
@@ -119,7 +119,7 @@ const kassio = {
   <tr>
     <td width="50%">
       <h3 align="center">🍔 DevBurger</h3>
-      <div align="center">  
+      <div align="center">
         <a href="https://github.com/devkassio/devburger" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00C851?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p><strong>Stack:</strong> React • Node.js • MongoDB</p>
@@ -145,9 +145,9 @@ const kassio = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devkassio&show_icons=true&theme=dark&bg_color=0d1117&border_color=00C851&icon_color=00C851&title_color=00C851&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=devkassio&theme=dark&background=0d1117&border=00C851&stroke=00C851&ring=00C851&fire=00C851&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C851&sideLabels=00C851&dates=ffffff&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devkassio&show_icons=true&theme=dark&bg_color=0d1117&border_color=00C851&icon_color=00C851&title_color=00C851&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=10&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=devkassio&theme=dark&background=0d1117&border=00C851&stroke=00C851&ring=00C851&fire=00C851&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C851&sideLabels=00C851&dates=ffffff&border_radius=10" />
 
 </div>
 
@@ -164,11 +164,17 @@ const kassio = {
 ### ⚡ **Quick Stats**
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=devkassio&color=00C851&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/devkassio?color=00C851&style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/devkassio?color=00C851&style=for-the-badge&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=495867&color=00C851&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/devkassio)
 
+</div>
+
+### 📈 **GitHub Language Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkassio&layout=compact&theme=dark&bg_color=0d1117&border_color=00C851&title_color=00C851&text_color=ffffff" />
 </div>
 
 ---
@@ -226,11 +232,11 @@ const kassio = {
 
 ```javascript
 const developmentPhilosophy = {
-  mindset: "Growth mindset + Continuous learning",
-  approach: "Problem solver, not just code writer",
-  quality: "Clean code + Functional design = Real impact",
-  goal: "Building digital experiences that connect people and elevate businesses",
-  values: ["Discipline", "Innovation", "Collaboration", "Excellence"],
+  mindset: 'Growth mindset + Continuous learning',
+  approach: 'Problem solver, not just code writer',
+  quality: 'Clean code + Functional design = Real impact',
+  goal: 'Building digital experiences that connect people and elevate businesses',
+  values: ['Discipline', 'Innovation', 'Collaboration', 'Excellence'],
 };
 ```
 
