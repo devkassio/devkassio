@@ -171,12 +171,6 @@ const kassio = {
 
 </div>
 
-### 📈 **GitHub Language Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkassio&layout=compact&theme=dark&bg_color=0d1117&border_color=00C851&title_color=00C851&text_color=ffffff" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Vamos nos Conectar!**
@@ -277,7 +271,7 @@ const developmentPhilosophy = {
 
 <img width="80" height="80" alt="Kássio Logo" src="https://github.com/user-attachments/assets/22ae713c-c450-46fd-bf2c-1020b694ec0d" style="border-radius: 50%; border: 3px solid #00C851;" />
 
-### **Feito com 💚 por Kássio Barros**
+### **Developer by Kássio Barros**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
 
