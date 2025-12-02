@@ -1,265 +1,345 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00C851&height=300&section=header&text=Kássio%20Barros&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=280&section=header&text=Kássio%20Barros&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20davinTI&descAlignY=52&descAlign=50)
 
-<img width="150" height="150" alt="Kássio Profile" src="https://github.com/user-attachments/assets/43973edd-9162-44e1-84a3-f97fdd2a9e67" style="border-radius: 50%; border: 4px solid #00C851; box-shadow: 0 8px 32px rgba(0, 200, 81, 0.3);" />
+<img width="160" height="160" alt="Kássio Barros" src="https://github.com/user-attachments/assets/43973edd-9162-44e1-84a3-f97fdd2a9e67" style="border-radius: 50%;" />
 
-### 🚀 Criando soluções digitais modernas, performáticas e escaláveis
+### Front-End Developer @ **[davinTI](https://davinti.com.br)**
 
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-00C851?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00C851?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00C851?style=for-the-badge&logo=calendar&logoColor=white" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kassiobarros-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassiobarros/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kassiobarros.com-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://kassiobarros.com.br)
+[![Email](https://img.shields.io/badge/Email-kassioxs@icloud.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kassioxs@icloud.com)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+davinTI;React+%7C+TypeScript+%7C+Next.js;Building+Modern+%26+Responsive+Interfaces;Clean+Code+%26+Best+Practices;Continuous+Learning+%26+Growth+Mindset" alt="Typing SVG" />
+
+**Desenvolvedor Front-End em evolução contínua** | Focado em **interfaces modernas** e **experiência do usuário**
+Criando aplicações web responsivas, acessíveis e de alto impacto com React, TypeScript e Next.js
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=devkassio&color=FF6B35&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Sobre mim
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;2%2B+Years+of+Experience;Always+Learning+New+Technologies;Building+Amazing+Applications" alt="Typing SVG" />
-</div>
+## 👨‍💻 **Sobre mim**
 
 ```typescript
-const kassio = {
-  name: 'Kássio Barros',
-  role: 'Full Stack Developer',
-  location: 'Brasil 🇧🇷',
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  technologies: {
-    frontend: ['React', 'Next.js', 'HTML5', 'CSS3'],
-    backend: ['Node.js', 'Express', 'NestJS'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    cloud: ['Docker'],
-    tools: ['Git', 'VSCode', 'Figma', 'Postman'],
+const kassioBarros = {
+  currentRole: {
+    title: "Front-End Developer",
+    company: "davinTI Soluções em Tecnologia",
+    type: "Full-time",
+    focus: ["Modern Web Interfaces", "Responsive Design", "User Experience"]
   },
-  currentFocus: 'Building scalable web applications',
-  philosophy: 'Clean code + Functional design = Real impact',
+  expertise: {
+    frontend: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "NestJS", "Fastify", "RESTful APIs", "Prisma"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    devOps: ["Docker", "Git", "GitHub Actions", "Vercel"],
+    tools: ["VS Code", "Postman", "Insomnia", "Figma", "ESLint", "Prettier", "Biome"]
+  },
+  learning: {
+    current: ["Java", "SQL", "PL/SQL", "Oracle", "BPM/BPMN", "Vitruvio Framework"],
+    focus: "Enterprise systems development and maintenance"
+  },
+  coreValues: [
+    "Continuous Learning & Growth",
+    "Clean Code & Best Practices",
+    "Problem-solving with Responsibility",
+    "Attention to Detail",
+    "Effective Communication",
+    "Discipline & High Performance"
+  ],
+  mindset: {
+    driven: "Purpose, discipline and daily technical growth",
+    approach: "Combining technique, mentality and consistency",
+    goal: "Building solutions that truly make a difference"
+  }
 };
 ```
 
-### 🎯 **Minha Missão**
+### 🎯 **Sobre Mim**
 
-> Transformar **ideias em produtos digitais impactantes**, com foco em **performance, robustez e excelente experiência do usuário**. Atuo em toda a jornada do produto: desde interfaces modernas e responsivas até APIs seguras e bem arquitetadas.
+Desenvolvedor Front-End em **evolução contínua**, movido por **propósito, disciplina e crescimento técnico diário**. Construí minha base em HTML, CSS e JavaScript no DevClub, onde descobri o poder de transformar lógica, design e intenção em aplicações reais, desenvolvendo mentalidade de **alta performance e estudo contínuo**.
 
-### 💡 **Valores que me movem**
+Venho ampliando minhas competências no ecossistema moderno: **React, TypeScript, Next.js, Node.js, Express, MongoDB** e padrões de arquitetura que tornam o código **limpo, organizado e escalável**. Aprendi a criar aplicações completas, conectando front-end e back-end com clareza técnica e visão de produto.
 
-<table align="center">
+Atualmente, atuo como **Front-End Developer na davinTI Soluções em Tecnologia**, imerso em um ambiente corporativo de alto nível que acelera minha curva de aprendizado. Estou me aprofundando em **Java, SQL, PL/SQL, PostgreSQL, Oracle, BPM/BPMN** e no framework proprietário **Vitruvio**, trabalhando no desenvolvimento e manutenção de sistemas complexos de grande impacto.
+
+Sou movido pela combinação entre **técnica, mentalidade e disciplina**. Estudo diariamente para elevar meu repertório, refinar minha lógica e me tornar um profissional versátil, sólido e preparado para projetos que exigem **precisão, autonomia e maturidade**.
+
+### 🏢 **Experiência na davinTI**
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/muscle.png"/>
-      <br><b>Disciplina</b>
-      <br><sub>Base do crescimento</sub>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/web.png"/>
+      <br><b>Interfaces Modernas</b>
+      <br><sub>React, TypeScript e Next.js</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/code.png"/>
-      <br><b>Clean Code</b>
-      <br><sub>Sustentabilidade</sub>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/system-task.png"/>
+      <br><b>Sistemas Enterprise</b>
+      <br><sub>Java, SQL, Oracle e Vitruvio</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/rocket.png"/>
-      <br><b>Inovação</b>
-      <br><sub>Sempre evoluindo</sub>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/learning.png"/>
+      <br><b>Aprendizado Contínuo</b>
+      <br><sub>Crescimento técnico diário</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> Stack Principal
+## 🚀 **Stack Tecnológica**
 
 <div align="center">
 
-### 🎨 **Frontend Development**
+### **Frontend Development**
 
-<div style="background: linear-gradient(135deg, #00C851 0%, #00A142 100%); padding: 10px; border-radius: 10px; margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ **Backend Development**
+### **Backend Development**
 
-<div style="background: linear-gradient(135deg, #00C851 0%, #00A142 100%); padding: 10px; border-radius: 10px; margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ **Database & Cloud**
+### **Database & Storage**
 
-<div style="background: linear-gradient(135deg, #00C851 0%, #00A142 100%); padding: 10px; border-radius: 10px; margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker&theme=dark" />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ **Tools & Technologies**
+### **DevOps & Tools**
 
-<div style="background: linear-gradient(135deg, #00C851 0%, #00A142 100%); padding: 10px; border-radius: 10px; margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=dark" />
-  <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" alt="Cursor AI logo" width="48" style="margin-left: 8px;"/>
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+### **Testing & Quality**
 
-### 📈 **GitHub Language Stats**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkassio&layout=compact&theme=dark&bg_color=0d1117&border_color=00C851&title_color=00C851&text_color=ffffff" />
 </div>
 
 ---
 
-## 🌎 **Portfólio & Projetos**
+## 🎓 **Metodologias & Boas Práticas**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-kassiobarros.com.br-00C851?style=for-the-badge&logoColor=white)](https://kassiobarros.com.br)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/code.png"/>
+      <br><b>Clean Code</b>
+      <br><sub>Código limpo e legível</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/agile.png"/>
+      <br><b>Metodologias Ágeis</b>
+      <br><sub>Colaboração e entregas contínuas</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/api-settings.png"/>
+      <br><b>RESTful APIs</b>
+      <br><sub>Integração e consumo de APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/module.png"/>
+      <br><b>Componentização</b>
+      <br><sub>Arquitetura modular e reutilizável</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/git.png"/>
+      <br><b>Git & Versionamento</b>
+      <br><sub>Controle de versão e colaboração</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/system-task.png"/>
+      <br><b>Responsive Design</b>
+      <br><sub>Mobile-first e acessibilidade</sub>
+    </td>
+  </tr>
+</table>
 
-### 🚀 **Projetos em Destaque**
+</div>
+
+---
+
+## 💼 **Experiência Profissional**
+
+<div align="center">
+
+### 🔶 **Front-End Developer @ davinTI**
+
+Como **Front-End Developer** na davinTI Soluções em Tecnologia, atuo no desenvolvimento e manutenção de sistemas enterprise complexos, trabalhando com tecnologias modernas e frameworks proprietários em um ambiente corporativo de alto nível.
+
+**Áreas de Atuação:**
+- Desenvolvimento de interfaces modernas com React, TypeScript e Next.js
+- Manutenção e evolução de sistemas enterprise com Java, SQL e Oracle
+- Trabalho com framework proprietário Vitruvio
+- Desenvolvimento de rotinas e processos BPM/BPMN
+- Aplicação de boas práticas, código limpo e trabalho colaborativo
+- Aprendizado contínuo em tecnologias enterprise (PL/SQL, PostgreSQL, Oracle)
+
+</div>
+
+---
+
+## 🎯 **Projetos Open Source**
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🍔 DevBurger</h3>
       <div align="center">
-        <a href="https://github.com/devkassio/devburger" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00C851?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/devkassio/devburger" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositório-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
         <br><br>
-        <p><strong>Stack:</strong> React • Node.js • MongoDB</p>
-        <p>Sistema completo de hamburgueria com carrinho, pedidos e painel administrativo. Interface moderna e responsiva.</p>
+        <p><strong>Stack:</strong> React • Node.js • MongoDB • Express</p>
+        <p>Sistema full-stack de gerenciamento de pedidos com painel administrativo completo, autenticação JWT, carrinho de compras e integração de pagamentos. Arquitetura REST API escalável.</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🎬 DevMovies</h3>
       <div align="center">
-        <a href="https://github.com/devkassio/dev-movies" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00C851?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/devkassio/dev-movies" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositório-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
         <br><br>
-        <p><strong>Stack:</strong> HTML5 • CSS3 • JavaScript • TMDb API</p>
-        <p>Plataforma de filmes com busca dinâmica, consumo de API externa e design responsivo e intuitivo.</p>
+        <p><strong>Stack:</strong> JavaScript • HTML5 • CSS3 • TMDb API</p>
+        <p>Plataforma interativa de filmes com integração de API externa, busca em tempo real, sistema de favoritos e interface responsiva com design moderno e UX otimizada.</p>
       </div>
     </td>
   </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **Estatísticas do GitHub**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devkassio&show_icons=true&theme=dark&bg_color=0d1117&border_color=00C851&icon_color=00C851&title_color=00C851&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=10&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=devkassio&theme=dark&background=0d1117&border=00C851&stroke=00C851&ring=00C851&fire=00C851&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C851&sideLabels=00C851&dates=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devkassio&show_icons=true&theme=radical&bg_color=0d1117&border_color=FF6B35&icon_color=FF6B35&title_color=FF6B35&text_color=ffffff&custom_title=GitHub%20Statistics&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=devkassio&theme=radical&background=0d1117&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=ffffff&border_radius=8" />
 
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkassio&bg_color=0d1117&color=00C851&line=00C851&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkassio&layout=compact&theme=radical&bg_color=0d1117&border_color=FF6B35&title_color=FF6B35&text_color=ffffff&border_radius=8" />
 </div>
+
+<br>
+
+<div align="center">
+
+### 🎯 **GitHub Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devkassio&theme=react-dark&bg_color=0d1117&color=FF6B35&line=FF6B35&point=ffffff&area=true&hide_border=false&border_color=FF6B35" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🏆 **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devkassio&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-### ⚡ **Quick Stats**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=devkassio&color=00C851&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/devkassio?color=00C851&style=for-the-badge&logo=github)
-![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=495867&color=00C851&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/devkassio)
+<img src="https://github-profile-trophy.vercel.app/?username=devkassio&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=4&row=2" />
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Vamos nos Conectar!**
+<br>
 
 <div align="center">
 
-### 💬 **Entre em contato comigo:**
-
-<a href="https://www.linkedin.com/in/kassioxis/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00C851" />
-</a>
-<a href="mailto:kassioxs@icloud.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00C851" />
-</a>
-<a href="https://wa.me/16992715614">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=00C851" />
-</a>
-<a href="https://kassiobarros.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&color=00C851" />
-</a>
-
-### 🤝 **Colaboração**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/handshake.png"/>
-      <br><b>Sempre aberto</b>
-      <br><sub>para colaborações</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/brain.png"/>
-      <br><b>Projetos inovadores</b>
-      <br><sub>me interessam</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/chat.png"/>
-      <br><b>Mentoria</b>
-      <br><sub>e networking</sub>
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=devkassio&color=FF6B35&style=for-the-badge&label=VISUALIZAÇÕES)
+![Followers](https://img.shields.io/github/followers/devkassio?color=FF6B35&style=for-the-badge&logo=github&label=SEGUIDORES)
+![Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=REPOSITÓRIOS&labelColor=1a1b27&color=FF6B35&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/devkassio)
+![Stars](https://img.shields.io/github/stars/devkassio?color=FF6B35&style=for-the-badge&logo=github&label=TOTAL%20STARS)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="50"> **Mindset & Filosofia**
+## 📫 **Contato Profissional**
 
 <div align="center">
 
-### 🎯 **Minha Filosofia de Desenvolvimento**
+### Estou sempre aberto para discutir projetos, oportunidades profissionais e colaborações
+
+<a href="https://www.linkedin.com/in/kassiobarros/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kássio_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kassioxis@icloud.com">
+  <img src="https://img.shields.io/badge/Email-kassioxis@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/16992162921">
+  <img src="https://img.shields.io/badge/WhatsApp-Contato_Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://kassiobarros.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-kassiobarros.com-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+**💼 Disponível para:** Projetos freelance | Consultorias técnicas | Colaborações profissionais
+
+</div>
+
+---
+
+## 🎯 **Filosofia Profissional**
+
+<div align="center">
 
 ```javascript
-const developmentPhilosophy = {
-  mindset: 'Growth mindset + Continuous learning',
-  approach: 'Problem solver, not just code writer',
-  quality: 'Clean code + Functional design = Real impact',
-  goal: 'Building digital experiences that connect people and elevate businesses',
-  values: ['Discipline', 'Innovation', 'Collaboration', 'Excellence'],
+const professionalPhilosophy = {
+  approach: "Solution-oriented development with business impact focus",
+  codeQuality: "Clean, maintainable, and production-ready code",
+  methodology: "Agile mindset with continuous delivery",
+  learning: "Constant evolution through best practices and new technologies",
+  collaboration: "Effective communication and team-oriented work",
+  values: ["Technical Excellence", "Business Value", "Scalability", "Performance"]
 };
 ```
 
+### 🏆 **Princípios Fundamentais**
+
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/nolan/64/brain.png"/>
-      <br><b>🧠 Evolução Contínua</b>
-      <br><sub>Sempre aprendendo novas tecnologias</sub>
+      <img src="https://img.icons8.com/fluency/48/code.png"/>
+      <br><b>Excelência Técnica</b>
+      <br><sub>Código limpo e escalável</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/64/strength.png"/>
-      <br><b>💪 Disciplina</b>
-      <br><sub>Constância como diferencial</sub>
+      <img src="https://img.icons8.com/fluency/48/business.png"/>
+      <br><b>Valor de Negócio</b>
+      <br><sub>Soluções orientadas a resultados</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/nolan/64/settings.png"/>
-      <br><b>🛠️ Clean Code</b>
-      <br><sub>Código limpo e sustentável</sub>
+      <img src="https://img.icons8.com/fluency/48/graph.png"/>
+      <br><b>Performance First</b>
+      <br><sub>Otimização constante</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/nolan/64/earth-planet.png"/>
-      <br><b>🌍 Impacto Real</b>
-      <br><sub>Soluções que fazem diferença</sub>
+      <img src="https://img.icons8.com/fluency/48/group.png"/>
+      <br><b>Trabalho em Equipe</b>
+      <br><sub>Colaboração efetiva</sub>
     </td>
   </tr>
 </table>
 
-### 💫 **"Coding is not just about writing code, it's about solving problems and creating value"**
+<br>
+
+> **"Desenvolver software é sobre resolver problemas complexos de negócio através de soluções técnicas elegantes, escaláveis e de alto valor agregado."**
 
 </div>
 
@@ -267,14 +347,20 @@ const developmentPhilosophy = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00C851&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer)
 
-<img width="80" height="80" alt="Kássio Logo" src="https://github.com/user-attachments/assets/22ae713c-c450-46fd-bf2c-1020b694ec0d" style="border-radius: 50%; border: 3px solid #00C851;" />
+<br>
 
-### **Developer by Kássio Barros**
+### **Desenvolvido com dedicação e expertise profissional**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+open+to+new+opportunities!" alt="Typing SVG" />
+**Kássio Barros** • Software Developer @ **davinTI**
 
-⭐ **Se você gostou do meu perfil, deixe uma estrela!** ⭐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kassiobarros/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF6B35?style=flat-square&logo=vercel)](https://kassiobarros.com.br)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail)](mailto:kassioxs@icloud.com)
+
+<br>
+
+⭐ **Gostou do perfil? Deixe uma estrela nos repositórios!** ⭐
 
 </div>
